@@ -13,7 +13,7 @@ Add the following dependency to your Maven/Ivy Project:
 </dependency>
 `
 
-Add `com.qonceptual.*` in as part of you component scan.
+Add `com.qonceptual.*` in as part of your component scan.
  
 For ex: `@ComponentScan(basePackages = {"com.qonceptual.*"})`
 
